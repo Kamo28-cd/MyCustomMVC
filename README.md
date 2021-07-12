@@ -9,7 +9,7 @@ This was primarily built to achieve better understanding of MVC Architecture but
 Some of the projects that use this architecture:
 Blogsite
 WebBuilder
-ECommerce
+ECommerce 
 
 Technologies used:
 
